@@ -1,0 +1,32 @@
+# Oligarchy vault palette derived from the main vault artwork.
+mode = "dark"
+
+accent = "#d89b30"
+selection = "#704e2d"
+muted = "#91734a"
+
+background = "#1f1711"
+dark_background = "#140e0a"
+darker_background = "#0b0806"
+lighter_background = "#4d3927"
+
+foreground = "#efd392"
+dark_foreground = "#a8905d"
+light_foreground = "#f5e4b4"
+bright_foreground = "#fff1c7"
+
+red = "#b4411f"
+yellow = "#d89b30"
+orange = "#c8642b"
+green = "#788044"
+cyan = "#748573"
+blue = "#506e6b"
+magenta = "#8d3b2d"
+brown = "#704e2d"
+
+bright_red = "#d45b2d"
+bright_yellow = "#f2c65e"
+bright_green = "#a4a55d"
+bright_cyan = "#9aaea0"
+bright_blue = "#7d9ca0"
+bright_magenta = "#bb664d"
